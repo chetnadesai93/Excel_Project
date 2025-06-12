@@ -1,1 +1,1 @@
-# Excel_Project
+Analyzing sales data using Microsoft Excel to derive key insights into revenue and profit trends across products, categories, and regions. Provided actionable recommendations to improve overall profitability. Detect seasonal sales trends and revenue growth patterns.
